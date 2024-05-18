@@ -17,4 +17,4 @@ share: false
 - [x] 13:10 - 13:50 write out the new step-case algorithm for refined candidates 🔺 ➕ 2024-05-02 🛫 2024-05-02 ⏳ 2024-05-02 📅 2024-05-02 ✅ 2024-05-02
 - [x] 13:50 - 15:00 implement step-case algorithm ➕ 2024-05-02 ⏳ 2024-05-02 ✅ 2024-05-02
 - [x] Finish testing wordbank service   [scheduled:: 2024-05-08T20:15]  [due:: 2024-05-08]  [start:: 2024-05-08]  [completion:: 2024-05-08T21:00]
-- [ ] Begin planning for frontend   [scheduled:: 2024-05-09T20:00]  [due:: 2024-05-09]  [start:: 2024-05-09]  [created:: 2024-05-09]  [priority:: high]
+- [x] Begin planning for frontend   [scheduled:: 2024-05-09T20:00]  [due:: 2024-05-09]  [start:: 2024-05-09]  [created:: 2024-05-09]  [priority:: high]  [completion:: 2024-05-18T17:30]
