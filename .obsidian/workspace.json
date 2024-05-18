@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Projects/Ethics Project.md",
+                "file": "-Daily-Notes/2024-05-18.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Projects/Ethics Project.md",
+                "file": "-Daily-Notes/2024-05-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Projects/Ethics Project.md",
+                "file": "-Daily-Notes/2024-05-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Projects/Ethics Project.md"
+                "file": "-Daily-Notes/2024-05-18.md"
               }
             }
           },
@@ -163,24 +163,25 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false,
       "obsidian-omnivore:Omnivore": false,
       "templater-obsidian:Templater": false,
       "cmdr:Import from Todoist": false,
       "cmdr:Create Something": false,
-      "card-board:CardBoard": false,
       "time-ruler:Open Time Ruler": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "periodic-notes:Open today": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "8e3e7fde78ab9203",
   "lastOpenFiles": [
+    "1-Projects/Ethics Project.md",
+    "-Daily-Notes/2024-05-18.md",
     "2-Areas/University.md",
     "-Daily-Notes/2024-05-09.md",
     "1-Projects/STS Project.md",
     "-Daily-Notes/2024-05-01.md",
     "1-Projects/Cigar Automation.md",
-    "1-Projects/Ethics Project.md",
     "-Daily-Notes/2024-05-08.md",
     "1-Projects/Environmental Science.md",
     "4-Archives/Multistep component.md",
@@ -200,7 +201,6 @@
     "2-Areas/Linkt.md",
     "Journal 2024 📔.md",
     "-Daily-Notes/2024-04-28.md",
-    "Someday Maybe 💭.md",
     "_Media/color_palette.png",
     "_Sources"
   ]
