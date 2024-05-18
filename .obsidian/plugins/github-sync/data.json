@@ -1,7 +1,7 @@
 {
   "ghUsername": "ionnich",
   "ghPersonalAccessToken": "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",
-  "ghRepoUrl": "",
-  "gitLocation": "",
-  "syncinterval": 0
+  "ghRepoUrl": "github.com/ionnich/SuperMind",
+  "gitLocation": "/usr/bin/git",
+  "syncinterval": 2
 }
