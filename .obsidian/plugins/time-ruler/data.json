@@ -1,0 +1,44 @@
+{
+  "calendars": [],
+  "fieldFormat": "dataview",
+  "muted": false,
+  "timerEvent": "notification",
+  "inbox": null,
+  "search": "",
+  "taskSearch": "",
+  "fileOrder": [
+    "1-Projects/Cigar Automation",
+    "1-Projects/Environmental Science",
+    "1-Projects/Ethics Project",
+    "1-Projects/STS Project",
+    "2-Areas/AI Law",
+    "2-Areas/Linkt",
+    "2-Areas/University",
+    "4-Archives/Answer Drafting V2",
+    "4-Archives/Complaint Drafting V2",
+    "Daily: Apr 29",
+    "Daily: Apr 30",
+    "Daily: May 01",
+    "Daily: May 08",
+    "Passions Backlog 🎮",
+    "Someday Maybe 💭"
+  ],
+  "customStatus": {
+    "include": false,
+    "statuses": "-"
+  },
+  "showCompleted": false,
+  "groupBy": "path",
+  "dayStartEnd": [
+    6,
+    24
+  ],
+  "twentyFourHourFormat": false,
+  "filterFunction": "",
+  "addTaskToEnd": false,
+  "extendBlocks": false,
+  "hideTimes": false,
+  "borders": true,
+  "viewMode": "day",
+  "scheduledSubtasks": false
+}
