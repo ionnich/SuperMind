@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Projects/Ethics Project.md",
+                "file": "1-Projects/Cigar Automation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Projects/Ethics Project.md",
+                "file": "1-Projects/Cigar Automation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Projects/Ethics Project.md",
+                "file": "1-Projects/Cigar Automation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Projects/Ethics Project.md"
+                "file": "1-Projects/Cigar Automation.md"
               }
             }
           },
@@ -189,8 +189,9 @@
   },
   "active": "f2ace1f0bbcec522",
   "lastOpenFiles": [
-    "2-Areas/University.md",
+    "2-Areas/Linkt.md",
     "-Daily-Notes/2024-05-18.md",
+    "2-Areas/University.md",
     "1-Projects/Ethics Project.md",
     "-Daily-Notes/2024-05-09.md",
     "1-Projects/STS Project.md",
@@ -212,7 +213,6 @@
     "5-Templates/Filename-Template.md",
     "-Daily-Notes/2024-04-30.md",
     "-Daily-Notes/2024-04-29.md",
-    "2-Areas/Linkt.md",
     "Journal 2024 📔.md",
     "-Daily-Notes/2024-04-28.md",
     "_Media/color_palette.png",

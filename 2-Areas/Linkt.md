@@ -13,7 +13,7 @@ share: false
 This is probably the most fun area in my life right now
 - [x] follow up on wise as a payment status with Reid ⏫ ➕ 2024-05-01 📅 2024-05-01 ✅ 2024-05-02
 ## Projects 🎯
-- [ ] [[Cigar Automation]] ➕ 2024-04-29
+- [ ] [[Cigar Automation]] ➕ 2024-04-29  [due:: 2024-05-21]
 
 
 
