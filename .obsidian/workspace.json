@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Zettel/Storefront upload flow.md",
+                "file": "-Daily-Notes/2024-05-19.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Zettel/Storefront upload flow.md",
+                "file": "-Daily-Notes/2024-05-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Zettel/Storefront upload flow.md",
+                "file": "-Daily-Notes/2024-05-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Zettel/Storefront upload flow.md"
+                "file": "-Daily-Notes/2024-05-19.md"
               }
             }
           },
@@ -189,10 +189,11 @@
   },
   "active": "f2ace1f0bbcec522",
   "lastOpenFiles": [
-    "1-Projects/Cigar Automation.md",
-    "0-Zettel/Storefront upload flow.md",
-    "2-Areas/Linkt.md",
     "-Daily-Notes/2024-05-18.md",
+    "-Daily-Notes/2024-05-19.md",
+    "0-Zettel/Storefront upload flow.md",
+    "1-Projects/Cigar Automation.md",
+    "2-Areas/Linkt.md",
     "2-Areas/University.md",
     "1-Projects/Ethics Project.md",
     "-Daily-Notes/2024-05-09.md",
@@ -214,7 +215,6 @@
     "5-Templates/Filename-Template.md",
     "-Daily-Notes/2024-04-30.md",
     "-Daily-Notes/2024-04-29.md",
-    "Journal 2024 📔.md",
     "_Media/color_palette.png",
     "_Sources"
   ]

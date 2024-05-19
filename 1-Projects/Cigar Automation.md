@@ -19,4 +19,4 @@ share: false
 - [x] Finish testing wordbank service   [scheduled:: 2024-05-08T20:15]  [due:: 2024-05-08]  [start:: 2024-05-08]  [completion:: 2024-05-08T21:00]
 - [x] Begin planning for frontend   [scheduled:: 2024-05-09T20:00]  [due:: 2024-05-09]  [start:: 2024-05-09]  [created:: 2024-05-09]  [priority:: high]  [completion:: 2024-05-18T17:30]
 #### Upload Flow
-- [ ] Create storefront upload endpoint  [created:: 2024-05-18]  [scheduled:: 2024-05-18]
+- [x] Create storefront upload endpoint   [scheduled:: 2024-05-18]  [created:: 2024-05-18]  [completion:: 2024-05-19T15:45]
