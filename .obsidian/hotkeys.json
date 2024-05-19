@@ -156,5 +156,15 @@
       ],
       "key": "I"
     }
+  ],
+  "quickadd:choice:123bcf64-17f4-4405-8e7c-05a26daabdfa": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "Q"
+    }
   ]
 }

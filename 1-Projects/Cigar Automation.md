@@ -20,3 +20,5 @@ share: false
 - [x] Begin planning for frontend   [scheduled:: 2024-05-09T20:00]  [due:: 2024-05-09]  [start:: 2024-05-09]  [created:: 2024-05-09]  [priority:: high]  [completion:: 2024-05-18T17:30]
 #### Upload Flow
 - [x] Create storefront upload endpoint   [scheduled:: 2024-05-18]  [created:: 2024-05-18]  [completion:: 2024-05-19T15:45]
+#### Inventory UI
+- [ ] improve layout   [scheduled:: 2024-05-19T16:00]  [due:: 2024-05-19]  [start:: 2024-05-19]  [created:: 2024-05-19]  [priority:: high]
