@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Daily-Notes/2024-05-19.md",
+                "file": "0-Zettel/The Current State of International Peace and Justice.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Daily-Notes/2024-05-19.md",
+                "file": "0-Zettel/The Current State of International Peace and Justice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Daily-Notes/2024-05-19.md",
+                "file": "0-Zettel/The Current State of International Peace and Justice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Daily-Notes/2024-05-19.md"
+                "file": "0-Zettel/The Current State of International Peace and Justice.md"
               }
             }
           },
@@ -189,13 +189,14 @@
   },
   "active": "f2ace1f0bbcec522",
   "lastOpenFiles": [
+    "1-Projects/Ethics Project.md",
+    "0-Zettel/The Current State of International Peace and Justice.md",
+    "2-Areas/University.md",
     "1-Projects/Cigar Automation.md",
     "-Daily-Notes/2024-05-19.md",
     "-Daily-Notes/2024-05-18.md",
     "0-Zettel/Storefront upload flow.md",
     "2-Areas/Linkt.md",
-    "2-Areas/University.md",
-    "1-Projects/Ethics Project.md",
     "-Daily-Notes/2024-05-09.md",
     "1-Projects/STS Project.md",
     "-Daily-Notes/2024-05-01.md",
@@ -214,7 +215,6 @@
     "5-Templates/Monthly-Notes.md",
     "5-Templates/Filename-Template.md",
     "-Daily-Notes/2024-04-30.md",
-    "-Daily-Notes/2024-04-29.md",
     "_Media/color_palette.png",
     "_Sources"
   ]
