@@ -12,4 +12,4 @@ share: false
 
 Our findings present an overwhelmingly negative outlook regarding the state of international peace and justice.
 
-20% of respondents believe in some positive notion while a staggering 80% 
+20% of respondents believe that significant strides have been made. 40% believe that conflicts and human rights abuses continue to be perpetuated. 
