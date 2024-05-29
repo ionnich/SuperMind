@@ -8,7 +8,7 @@ aliases:
 share: false 
 ---
 
-# Cigar Automation
+# Invoke
 
 - [x] Figure out how to write tests in FastAPI 🔺 ➕ 2024-04-29 🛫 2024-04-29 ⏳ 2024-04-29 📅 2024-04-30 ✅ 2024-04-30
 - [x] update upload endpoint to use new search utility ➕ 2024-04-30 ✅ 2024-04-30
@@ -22,3 +22,12 @@ share: false
 - [x] Create storefront upload endpoint   [scheduled:: 2024-05-18]  [created:: 2024-05-18]  [completion:: 2024-05-19T15:45]
 #### Inventory UI
 - [x] improve layout   [scheduled:: 2024-05-19T16:00]  [priority:: high]  [created:: 2024-05-19]  [start:: 2024-05-19]  [due:: 2024-05-19]  [completion:: 2024-05-21]
+### Category UI
+- Pills
+	- [ ] Create pills for each category  [created:: 2024-05-29]  [scheduled:: 2024-05-29]  [due:: 2024-05-29]
+	- [ ] 
+	
+
+- Option Grid (multi select)
+- ContentStack
+- Category Form

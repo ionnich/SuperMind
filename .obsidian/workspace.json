@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Areas/Linkt.md",
+                "file": "1-Projects/Invoke.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Areas/Linkt.md",
+                "file": "1-Projects/Invoke.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Areas/Linkt.md",
+                "file": "1-Projects/Invoke.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Areas/Linkt.md"
+                "file": "1-Projects/Invoke.md"
               }
             }
           },
@@ -202,6 +202,7 @@
   },
   "active": "ab4e79850ea7e964",
   "lastOpenFiles": [
+    "2-Areas/Linkt.md",
     "-Daily-Notes/2024-05-29.md",
     "-Daily-Notes/2024-05-28.md",
     "-Daily-Notes/2024-05-27.md",
@@ -212,11 +213,10 @@
     "4-Archives/STS Project.md",
     "0-Zettel/The Current State of International Peace and Justice.md",
     "2-Areas/University.md",
-    "1-Projects/Cigar Automation.md",
+    "1-Projects/Invoke.md",
     "-Daily-Notes/2024-05-19.md",
     "-Daily-Notes/2024-05-18.md",
     "0-Zettel/Storefront upload flow.md",
-    "2-Areas/Linkt.md",
     "-Daily-Notes/2024-05-09.md",
     "-Daily-Notes/2024-05-01.md",
     "-Daily-Notes/2024-05-08.md",
