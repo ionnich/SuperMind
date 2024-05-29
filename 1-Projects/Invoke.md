@@ -23,11 +23,13 @@ share: false
 #### Inventory UI
 - [x] improve layout   [scheduled:: 2024-05-19T16:00]  [priority:: high]  [created:: 2024-05-19]  [start:: 2024-05-19]  [due:: 2024-05-19]  [completion:: 2024-05-21]
 ### Category UI
+- [ ] Refactor category page the same way brand page was refactored  [created:: 2024-05-29]  [scheduled:: 2024-05-29]  [due:: 2024-05-29]
+- [ ] 2 tabs - Categories - Results  [created:: 2024-05-29]
 - Pills
 	- [ ] Create pills for each category  [created:: 2024-05-29]  [scheduled:: 2024-05-29]  [due:: 2024-05-29]
-	- [ ] 
-	
-
+	- [ ] lifted usestates for pills  [created:: 2024-05-29]
 - Option Grid (multi select)
+	- [ ] feed use states in category form option grids  [created:: 2024-05-29]  [start:: 2024-05-29]  [scheduled:: 2024-05-29]
+	- [ ] category on submit  [created:: 2024-05-29]  [start:: 2024-05-29]  [scheduled:: 2024-05-29]
 - ContentStack
 - Category Form
