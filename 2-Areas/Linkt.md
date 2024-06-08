@@ -13,7 +13,7 @@ share: false
 This is probably the most fun area in my life right now
 - [x] follow up on wise as a payment status with Reid ⏫ ➕ 2024-05-01 📅 2024-05-01 ✅ 2024-05-02
 ## Projects 🎯
-- [ ] [[Invoke]] ➕ 2024-04-29  [due:: 2024-05-21]
+- [x] [[Invoke]]  📅 2024-05-21 ➕ 2024-04-29 ✅ 2024-06-08T20:45
 
 
 

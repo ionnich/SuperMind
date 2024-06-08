@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Projects/Invoke.md",
+                "file": "-Daily-Notes/2024-06-08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Projects/Invoke.md",
+                "file": "-Daily-Notes/2024-06-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Projects/Invoke.md",
+                "file": "-Daily-Notes/2024-06-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Projects/Invoke.md"
+                "file": "-Daily-Notes/2024-06-08.md"
               }
             }
           },
@@ -195,13 +195,15 @@
       "cmdr:Create Something": false,
       "time-ruler:Open Time Ruler": false,
       "github-sync:Sync with Remote": false,
+      "templater-obsidian:Templater": false,
       "periodic-notes:Open today": false,
-      "card-board:CardBoard": false,
-      "templater-obsidian:Templater": false
+      "card-board:CardBoard": false
     }
   },
   "active": "ab4e79850ea7e964",
   "lastOpenFiles": [
+    "1-Projects/Invoke.md",
+    "-Daily-Notes/2024-06-08.md",
     "2-Areas/Linkt.md",
     "-Daily-Notes/2024-05-29.md",
     "-Daily-Notes/2024-05-28.md",
@@ -213,7 +215,6 @@
     "4-Archives/STS Project.md",
     "0-Zettel/The Current State of International Peace and Justice.md",
     "2-Areas/University.md",
-    "1-Projects/Invoke.md",
     "-Daily-Notes/2024-05-19.md",
     "-Daily-Notes/2024-05-18.md",
     "0-Zettel/Storefront upload flow.md",
@@ -227,7 +228,6 @@
     "2-Areas/AI Law.md",
     "1-Projects/Complaint Drafting.md",
     "-Daily-Notes/2024-05-03.md",
-    "-Daily-Notes/2024-05-02.md",
     "_Media/color_palette.png",
     "_Sources"
   ]
