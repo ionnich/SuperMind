@@ -12,4 +12,4 @@ share: false
 
 What is deep learning?
 
-Deep learning is paradigm 
+Deep learning is paradigm that takes typically ambiguous data
