@@ -12,5 +12,8 @@ share: false
 
 A neuron is a thing that holds a number? It holds a continuous number between 0 and 1.
 
+##### Weighted Sum
+
+
 ##### Activation
-Neurons active
+Neurons activate when their weighted 
