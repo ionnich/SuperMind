@@ -41,5 +41,6 @@
   "obsidian-vimrc-support",
   "card-board",
   "time-ruler",
-  "github-sync"
+  "github-sync",
+  "typewriter-mode"
 ]
