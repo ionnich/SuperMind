@@ -10,3 +10,4 @@ share: false
 
 # Activations
 
+The number inside a neuron. The result of the activation function.
