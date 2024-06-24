@@ -10,4 +10,4 @@ share: false
 
 # Neural Network
 
-A neural network is a network of [[Neurons]] used to identify patterns.
+A neural network is a network of [[Neurons]] used to identify patterns. Neurons are stacked. Each level of the stack is called a **Layer**. 
