@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Zettel/Neural Network.md",
+                "file": "0-Zettel/Neurons.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Zettel/Neural Network.md",
+                "file": "0-Zettel/Neurons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Zettel/Neural Network.md",
+                "file": "0-Zettel/Neurons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Zettel/Neural Network.md"
+                "file": "0-Zettel/Neurons.md"
               }
             }
           },
@@ -202,8 +202,8 @@
   },
   "active": "ab4e79850ea7e964",
   "lastOpenFiles": [
-    "-Daily-Notes/2024-06-08.md",
     "0-Zettel/Neural Network.md",
+    "-Daily-Notes/2024-06-08.md",
     "0-Zettel/Neurons.md",
     "0-Zettel/Deep Learning.md",
     "1-Projects/Invoke.md",
