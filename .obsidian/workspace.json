@@ -45,9 +45,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "56e5abe2849f0ee2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -200,7 +210,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "ab4e79850ea7e964",
+  "active": "56e5abe2849f0ee2",
   "lastOpenFiles": [
     "0-Zettel/Neurons.md",
     "0-Zettel/Activations.md",
