@@ -62,7 +62,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Zettel/Deep Learning.md",
+                "file": "0-Zettel/Neural Network.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ae82f5ac9b3c100",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Zettel/Neurons.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Zettel/Deep Learning.md",
+                "file": "0-Zettel/Neurons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Zettel/Deep Learning.md",
+                "file": "0-Zettel/Neurons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Zettel/Deep Learning.md"
+                "file": "0-Zettel/Neurons.md"
               }
             }
           },
@@ -223,8 +236,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "34e581cc8b948c2f",
+  "active": "6ae82f5ac9b3c100",
   "lastOpenFiles": [
+    "0-Zettel/Neurons.md",
+    "0-Zettel/Neural Network.md",
     "0-Zettel/Deep Learning.md",
     "1-Projects/Invoke.md",
     "-Daily-Notes/2024-06-08.md",
@@ -249,8 +264,6 @@
     "4-Archives/Answer Drafting V2.md",
     "1-Projects/Areas.md",
     "2-Areas/AI Law.md",
-    "1-Projects/Complaint Drafting.md",
-    "-Daily-Notes/2024-05-03.md",
     "_Media/color_palette.png",
     "_Sources"
   ]
