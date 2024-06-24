@@ -10,4 +10,4 @@ share: false
 
 # Weight
 
-The weight represents how one 
+The weight represents how strongly one neuron correlates with another. An extremely positive weight indicates a positive relationship. A neutral connection may represent no relationship at all. While a negative relationship may indicate 
