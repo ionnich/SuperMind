@@ -10,4 +10,4 @@ share: false
 
 # Neural Network
 
-A neural network is a network of [[Neurons]]
+A neural network is a network of [[Neurons]] used to identify patterns.
