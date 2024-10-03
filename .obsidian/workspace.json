@@ -62,7 +62,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Zettel/Prefect Flow.md",
+                "file": "0-Zettel/Function.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7524f49854cc067e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Zettel/Method.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e7d25553bd3b78a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Zettel/Procedure.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -112,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "913b0cb82268f0df",
@@ -128,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Zettel/Prefect Flow.md",
+                "file": "0-Zettel/Procedure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Zettel/Prefect Flow.md",
+                "file": "0-Zettel/Procedure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Zettel/Prefect Flow.md"
+                "file": "0-Zettel/Procedure.md"
               }
             }
           },
@@ -222,8 +249,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "74d2c496347f2015",
+  "active": "0e7d25553bd3b78a",
   "lastOpenFiles": [
+    "0-Zettel/Method.md",
+    "0-Zettel/Procedure.md",
+    "0-Zettel/Function.md",
     "0-Zettel/Prefect Flow.md",
     "0-Zettel/Neurons.md",
     "0-Zettel/Activations.md",
@@ -247,9 +277,6 @@
     "0-Zettel/Storefront upload flow.md",
     "-Daily-Notes/2024-05-09.md",
     "-Daily-Notes/2024-05-01.md",
-    "-Daily-Notes/2024-05-08.md",
-    "4-Archives/Multistep component.md",
-    "4-Archives/Complaint Drafting V2.md",
     "_Media/color_palette.png",
     "_Sources"
   ]
