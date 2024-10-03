@@ -10,4 +10,4 @@ share: false
 
 # Prefect Flow
 
-A "flow" is a [[Function]] prefect tracks. 
+A "flow" is a [[Function]] prefect tracks. Within flows are [[Prefect Task|tasks]] represent single units of work.

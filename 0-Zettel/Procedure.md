@@ -12,3 +12,4 @@ share: false
 
 The manipulation of something. Printing, addition, etc. A verb.
 
+> Typically in the context of computers

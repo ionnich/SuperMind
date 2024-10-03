@@ -88,7 +88,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Zettel/Procedure.md",
+                "file": "0-Zettel/Prefect Flow.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7292a50d7ec3e94a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Zettel/Prefect Task.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -155,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Zettel/Procedure.md",
+                "file": "0-Zettel/Prefect Task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Zettel/Procedure.md",
+                "file": "0-Zettel/Prefect Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Zettel/Procedure.md"
+                "file": "0-Zettel/Prefect Task.md"
               }
             }
           },
@@ -249,12 +262,13 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "0e7d25553bd3b78a",
+  "active": "7292a50d7ec3e94a",
   "lastOpenFiles": [
-    "0-Zettel/Method.md",
-    "0-Zettel/Procedure.md",
-    "0-Zettel/Function.md",
     "0-Zettel/Prefect Flow.md",
+    "0-Zettel/Prefect Task.md",
+    "0-Zettel/Procedure.md",
+    "0-Zettel/Method.md",
+    "0-Zettel/Function.md",
     "0-Zettel/Neurons.md",
     "0-Zettel/Activations.md",
     "0-Zettel/Weight.md",
@@ -276,7 +290,6 @@
     "-Daily-Notes/2024-05-18.md",
     "0-Zettel/Storefront upload flow.md",
     "-Daily-Notes/2024-05-09.md",
-    "-Daily-Notes/2024-05-01.md",
     "_Media/color_palette.png",
     "_Sources"
   ]
