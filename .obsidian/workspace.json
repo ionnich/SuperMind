@@ -55,9 +55,22 @@
                 "currentVersion": "1.6.3"
               }
             }
+          },
+          {
+            "id": "74d2c496347f2015",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Zettel/Prefect Flow.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -99,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "913b0cb82268f0df",
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Zettel/Activations.md",
+                "file": "0-Zettel/Prefect Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Zettel/Activations.md",
+                "file": "0-Zettel/Prefect Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Zettel/Activations.md"
+                "file": "0-Zettel/Prefect Flow.md"
               }
             }
           },
@@ -210,8 +222,9 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "56e5abe2849f0ee2",
+  "active": "74d2c496347f2015",
   "lastOpenFiles": [
+    "0-Zettel/Prefect Flow.md",
     "0-Zettel/Neurons.md",
     "0-Zettel/Activations.md",
     "0-Zettel/Weight.md",
@@ -237,7 +250,6 @@
     "-Daily-Notes/2024-05-08.md",
     "4-Archives/Multistep component.md",
     "4-Archives/Complaint Drafting V2.md",
-    "4-Archives/Answer Drafting V2.md",
     "_Media/color_palette.png",
     "_Sources"
   ]
