@@ -55,136 +55,9 @@
                 "currentVersion": "1.6.3"
               }
             }
-          },
-          {
-            "id": "74d2c496347f2015",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Zettel/Function.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7524f49854cc067e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Zettel/Method.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e7d25553bd3b78a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Zettel/Prefect Flow.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efb665407b06f383",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
-            "id": "f003f72c6c86c316",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-Daily-Notes/2024-10-10.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2fbd9db9f01d03a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Zettel/Activations.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71a290bb9f1e9ab4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Zettel/Test note.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eee7b0dd28c939f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Zettel/Neural Network.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49f750c4a4ea753b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "474616818f801b1e",
-            "type": "leaf",
-            "state": {
-              "type": "card-board-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "659013ba21d3bc12",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Passions Backlog 🎮.md"
-              }
-            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 778.5
+    "width": 274.5
   },
   "right": {
     "id": "913b0cb82268f0df",
@@ -242,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Passions Backlog 🎮.md",
+                "file": "0-Zettel/Activations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Passions Backlog 🎮.md",
+                "file": "0-Zettel/Activations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,32 +167,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Passions Backlog 🎮.md"
+                "file": "0-Zettel/Activations.md"
               }
-            }
-          },
-          {
-            "id": "3939b813ce00fcfb",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "932d12cd66ee3b7f",
-            "type": "leaf",
-            "state": {
-              "type": "time-ruler-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 808.5
+    "width": 1162.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -335,12 +193,19 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "bcfab0dfb640b306",
+  "active": "ab4e79850ea7e964",
   "lastOpenFiles": [
-    "Journal 2024 📔.md",
-    "0-Zettel/Neurons.md",
-    "0-Zettel/Neural Network.md",
+    "0-Zettel/Function.md",
+    "0-Zettel/Method.md",
+    "0-Zettel/Prefect Flow.md",
+    "-Daily-Notes/2024-10-10.md",
     "0-Zettel/Activations.md",
+    "0-Zettel/Test note.md",
+    "0-Zettel/Neural Network.md",
+    "Journal 2024 📔.md",
+    "Someday Maybe 💭.md",
+    "Passions Backlog 🎮.md",
+    "0-Zettel/Neurons.md",
     "4-Archives/Answer Drafting V2.md",
     "4-Archives/Complaint Drafting V2.md",
     "4-Archives/Environmental Science.md",
@@ -356,13 +221,6 @@
     "-Daily-Notes/2024-04-28.md",
     "-Periodic-Notes/2024-W18.md",
     "0-Zettel/This is a test note again.md",
-    "0-Zettel/Test note.md",
-    "-Daily-Notes/2024-10-10.md",
-    "2-Areas/University.md",
-    "2-Areas/AI Law.md",
-    "0-Zettel/Prefect Task.md",
-    "0-Zettel/Prefect Flow.md",
-    "0-Zettel/Procedure.md",
     "_Media/color_palette.png",
     "_Sources"
   ]
