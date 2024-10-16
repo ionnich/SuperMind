@@ -71,32 +71,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5ec3042fa69b0585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Areas/Execution Engine.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56e5abe2849f0ee2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Areas/Execution Engine.md",
+                "file": "-Daily-Notes/2024-10-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-Areas/Execution Engine.md",
+                "file": "-Daily-Notes/2024-10-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-Areas/Execution Engine.md"
+                "file": "-Daily-Notes/2024-10-16.md"
               }
             }
           },
@@ -240,10 +217,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "5ec3042fa69b0585",
+  "active": "b79edcaba08f265b",
   "lastOpenFiles": [
     "-Daily-Notes/2024-10-16.md",
-    "2-Areas/Execution Engine.md",
+    "2-Areas/Areas.md",
     "0-Zettel/Rust Pest.md",
     "0-Zettel/Rust Execution Engine.md",
     "0-Zettel/Activations.md",

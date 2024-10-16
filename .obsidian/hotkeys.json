@@ -84,16 +84,6 @@
       "key": "U"
     }
   ],
-  "obsidian-tasks-plugin:edit-task": [
-    {
-      "modifiers": [
-        "Alt",
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
   "workspace:previous-tab": [
     {
       "modifiers": [
@@ -157,14 +147,14 @@
       "key": "I"
     }
   ],
-  "quickadd:choice:123bcf64-17f4-4405-8e7c-05a26daabdfa": [
+  "obsidian-tasks-plugin:edit-task": [
     {
       "modifiers": [
-        "Alt",
-        "Ctrl",
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "Q"
+      "key": "T"
     }
-  ]
+  ],
+  "workspace:undo-close-pane": []
 }
