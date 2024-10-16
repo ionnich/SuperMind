@@ -9,7 +9,9 @@
 - [ ] Review required libraries  [priority:: high]  [created:: 2024-10-16]
 
 ### Flow?
-
+1. Read user input using calamarine?
+2. Select between 2 approaches:
+	1. Build the dependency map 
 
 ### Unknowns
 - Pest's place in the project
