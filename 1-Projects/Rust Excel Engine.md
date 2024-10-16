@@ -10,8 +10,9 @@
 
 ### Flow?
 1. Read user input using calamarine?
-2. Select between 2 approaches:
-	1. Build the dependency map 
+2. Logical table analysis?
+	1. Figure out which parts of the worksheet are logical?
+3. Parse excel into rust using pest?
 
 ### Unknowns
 - Pest's place in the project
