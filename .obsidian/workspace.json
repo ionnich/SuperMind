@@ -71,9 +71,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f1234e9f00ebbc5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Projects/Rust Excel Execution Engine.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb53a8f16fe52af5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Projects/My Page.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a37310f788e3c05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Projects/Rust Excel Engine.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -131,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Daily-Notes/2024-10-16.md",
+                "file": "1-Projects/Rust Excel Engine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Daily-Notes/2024-10-16.md",
+                "file": "1-Projects/Rust Excel Engine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Daily-Notes/2024-10-16.md"
+                "file": "1-Projects/Rust Excel Engine.md"
               }
             }
           },
@@ -217,8 +256,14 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "b79edcaba08f265b",
+  "active": "9a37310f788e3c05",
   "lastOpenFiles": [
+    "1-Projects/My Page.md",
+    "1-Projects/Rust Excel Engine.md",
+    "2-Areas/Rust Excel Engine.md",
+    "0-Zettel/Weight.md",
+    "0-Zettel/Untitled.md",
+    "1-Projects/Rust Excel Execution Engine.md",
     "-Daily-Notes/2024-10-16.md",
     "2-Areas/Areas.md",
     "0-Zettel/Rust Pest.md",
@@ -239,12 +284,6 @@
     "4-Archives/Complaint Drafting V2.md",
     "4-Archives/Environmental Science.md",
     "4-Archives/Multistep component.md",
-    "4-Archives/STS Project.md",
-    "1-Projects/My Page.md",
-    "1-Projects/Ethics Project.md",
-    "1-Projects/Invoke.md",
-    "-Daily-Notes/2024-05-18.md",
-    "-Daily-Notes/2024-05-29.md",
     "_Media/color_palette.png",
     "_Sources"
   ]
