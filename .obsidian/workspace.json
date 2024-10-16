@@ -111,8 +111,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Projects/Rust Excel Engine.md",
+                "file": "-Daily-Notes/2024-05-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Projects/Rust Excel Engine.md",
+                "file": "-Daily-Notes/2024-05-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Projects/Rust Excel Engine.md"
+                "file": "-Daily-Notes/2024-05-18.md"
               }
             }
           },
@@ -256,10 +255,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "9a37310f788e3c05",
+  "active": "8e3e7fde78ab9203",
   "lastOpenFiles": [
-    "1-Projects/My Page.md",
     "1-Projects/Rust Excel Engine.md",
+    "1-Projects/My Page.md",
     "2-Areas/Rust Excel Engine.md",
     "0-Zettel/Weight.md",
     "0-Zettel/Untitled.md",
