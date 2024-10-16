@@ -47,6 +47,45 @@
             }
           },
           {
+            "id": "4ff08198b01abd19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Zettel/Rust Execution Engine.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b79edcaba08f265b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-Daily-Notes/2024-10-16.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ec3042fa69b0585",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Areas/Execution Engine.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "56e5abe2849f0ee2",
             "type": "leaf",
             "state": {
@@ -57,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -115,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Zettel/Activations.md",
+                "file": "2-Areas/Execution Engine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Zettel/Activations.md",
+                "file": "2-Areas/Execution Engine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,8 +206,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Zettel/Activations.md"
+                "file": "2-Areas/Execution Engine.md"
               }
+            }
+          },
+          {
+            "id": "8c21e2a31b7372fb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
@@ -193,13 +240,18 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "ab4e79850ea7e964",
+  "active": "5ec3042fa69b0585",
   "lastOpenFiles": [
+    "-Daily-Notes/2024-10-16.md",
+    "2-Areas/Execution Engine.md",
+    "0-Zettel/Rust Pest.md",
+    "0-Zettel/Rust Execution Engine.md",
+    "0-Zettel/Activations.md",
+    "0-Zettel/Rtus.md",
     "0-Zettel/Function.md",
     "0-Zettel/Method.md",
     "0-Zettel/Prefect Flow.md",
     "-Daily-Notes/2024-10-10.md",
-    "0-Zettel/Activations.md",
     "0-Zettel/Test note.md",
     "0-Zettel/Neural Network.md",
     "Journal 2024 📔.md",
@@ -216,11 +268,6 @@
     "1-Projects/Invoke.md",
     "-Daily-Notes/2024-05-18.md",
     "-Daily-Notes/2024-05-29.md",
-    "-Daily-Notes/2024-10-03.md",
-    "-Daily-Notes/2024-04-30.md",
-    "-Daily-Notes/2024-04-28.md",
-    "-Periodic-Notes/2024-W18.md",
-    "0-Zettel/This is a test note again.md",
     "_Media/color_palette.png",
     "_Sources"
   ]
