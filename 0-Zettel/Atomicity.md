@@ -12,10 +12,9 @@ share: false
 # Atomicity
 
 
-This feels like a term I deeply care about when designing systems.
+This feels like a term I deeply care about when designing [[System|systems]].
 
-Atomic means a --something-- cannot be splittable into smaller pieces. To me this sounds like designing structs, classes, functions such that, when used in higher contexts, appear singular in function and absolutely either execute or fail. This is important because when systems get overly complex, it is invaluable to have absolute constructs to rely on. If your functions are atomic
-
+Atomic means a --something-- cannot be splittable into smaller pieces. To me this sounds like designing structs, classes, functions such that, when used in higher contexts, appear singular in function and absolutely either execute or fail. This is important because when systems get overly complex, it is invaluable to have absolute constructs to rely on. If your abstractions (functions, classes, structs) are atomic, you remove the mental overhead of thinking about what state they must be in. 
 
 > *Atomic in programming refers to an assembly language instruction ATOMIC...* 
 > *n programming ATOMIC refers to a group of assembly instructions that form a single uninterruptable unit instruction*
