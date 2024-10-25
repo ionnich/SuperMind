@@ -17,7 +17,24 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-05-18"
+            }
+          },
+          {
+            "id": "b71cb74fa243eacb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Zettel/Pest.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pest"
             }
           },
           {
@@ -30,7 +47,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-05-27"
             }
           },
           {
@@ -43,7 +62,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Activations"
             }
           },
           {
@@ -56,7 +77,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Rust Execution Engine"
             }
           },
           {
@@ -69,49 +92,13 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "f1234e9f00ebbc5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Projects/Rust Excel Execution Engine.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb53a8f16fe52af5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Projects/My Page.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a37310f788e3c05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Projects/Rust Excel Engine.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-16"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +118,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -146,7 +135,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ]
@@ -169,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Daily-Notes/2024-05-18.md",
+                "file": "0-Zettel/Pest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +168,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pest"
             }
           },
           {
@@ -186,10 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "-Daily-Notes/2024-05-18.md",
+                "file": "0-Zettel/Pest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pest"
             }
           },
           {
@@ -200,7 +195,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -212,7 +209,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -221,8 +220,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Daily-Notes/2024-05-18.md"
-              }
+                "file": "0-Zettel/Pest.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pest"
             }
           },
           {
@@ -230,7 +231,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -255,8 +258,12 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "8e3e7fde78ab9203",
+  "active": "b71cb74fa243eacb",
   "lastOpenFiles": [
+    "0-Zettel/Rust Execution Engine.md",
+    "_Sources 2",
+    "5-Templates 2",
+    "_Scripts 2",
     "1-Projects/Rust Excel Engine.md",
     "1-Projects/My Page.md",
     "2-Areas/Rust Excel Engine.md",
@@ -265,8 +272,7 @@
     "1-Projects/Rust Excel Execution Engine.md",
     "-Daily-Notes/2024-10-16.md",
     "2-Areas/Areas.md",
-    "0-Zettel/Rust Pest.md",
-    "0-Zettel/Rust Execution Engine.md",
+    "0-Zettel/Pest.md",
     "0-Zettel/Activations.md",
     "0-Zettel/Rtus.md",
     "0-Zettel/Function.md",
@@ -282,7 +288,6 @@
     "4-Archives/Answer Drafting V2.md",
     "4-Archives/Complaint Drafting V2.md",
     "4-Archives/Environmental Science.md",
-    "4-Archives/Multistep component.md",
     "_Media/color_palette.png",
     "_Sources"
   ]
