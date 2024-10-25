@@ -12,7 +12,7 @@ share: false
 
 #### Grammar Construction
 
-We use [[Pest]] to construct a grammar that describes primarily formulas and terms. Formulas are compound expressions nested between an equal sign and parentheses | commas | custom functions. Terms are [[Atomic]] cells 
+We use [[Pest]] to construct a grammar that describes primarily formulas and terms. Formulas are compound expressions nested between an equal sign and parentheses | commas | custom functions. Terms are [[Atomicity]] cells that typically hold static values such as references | numbers | dates | booleans.
 
 ### Some questions:
 1. How should we use the [[Pest|pest]] file?

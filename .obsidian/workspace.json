@@ -38,6 +38,21 @@
             }
           },
           {
+            "id": "fd3b81b83b85cad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-Zettel/Atomicity.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Atomicity"
+            }
+          },
+          {
             "id": "f2ace1f0bbcec522",
             "type": "leaf",
             "state": {
@@ -98,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Zettel/Rust Execution Engine.md",
+                "file": "0-Zettel/Atomicity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rust Execution Engine"
+              "title": "Backlinks for Atomicity"
             }
           },
           {
@@ -179,12 +194,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Zettel/Rust Execution Engine.md",
+                "file": "0-Zettel/Atomicity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Rust Execution Engine"
+              "title": "Outgoing links from Atomicity"
             }
           },
           {
@@ -220,10 +235,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Zettel/Rust Execution Engine.md"
+                "file": "0-Zettel/Atomicity.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Rust Execution Engine"
+              "title": "Outline of Atomicity"
             }
           },
           {
@@ -258,10 +273,11 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "b71cb74fa243eacb",
+  "active": "fd3b81b83b85cad8",
   "lastOpenFiles": [
-    "0-Zettel/Pest.md",
     "0-Zettel/Rust Execution Engine.md",
+    "0-Zettel/Atomicity.md",
+    "0-Zettel/Pest.md",
     "_Sources 2",
     "5-Templates 2",
     "_Scripts 2",
