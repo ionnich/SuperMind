@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Zettel/Pest.md",
+                "file": "0-Zettel/Rust Execution Engine.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pest"
+              "title": "Rust Execution Engine"
             }
           },
           {
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Zettel/Pest.md",
+                "file": "0-Zettel/Rust Execution Engine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pest"
+              "title": "Backlinks for Rust Execution Engine"
             }
           },
           {
@@ -179,12 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Zettel/Pest.md",
+                "file": "0-Zettel/Rust Execution Engine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pest"
+              "title": "Outgoing links from Rust Execution Engine"
             }
           },
           {
@@ -220,10 +220,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Zettel/Pest.md"
+                "file": "0-Zettel/Rust Execution Engine.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Pest"
+              "title": "Outline of Rust Execution Engine"
             }
           },
           {
@@ -260,6 +260,7 @@
   },
   "active": "b71cb74fa243eacb",
   "lastOpenFiles": [
+    "0-Zettel/Pest.md",
     "0-Zettel/Rust Execution Engine.md",
     "_Sources 2",
     "5-Templates 2",
@@ -272,7 +273,6 @@
     "1-Projects/Rust Excel Execution Engine.md",
     "-Daily-Notes/2024-10-16.md",
     "2-Areas/Areas.md",
-    "0-Zettel/Pest.md",
     "0-Zettel/Activations.md",
     "0-Zettel/Rtus.md",
     "0-Zettel/Function.md",
